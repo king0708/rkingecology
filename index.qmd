@@ -1,11 +1,29 @@
 ---
-title: "rkingecology"
+title: "Rachel King: Ecologist & Data Analyst"
+about: 
+  template: trestles
+  image: profile.jpg
+  links: 
+    - icon: github
+      text: GitHub
+      href: https://github.com/king0708
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/kingra00/
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=M7BN2SsAAAAJ&hl=en
 ---
 
-This is a Quarto website.
+I'm a Postdoctoral Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of Minnesota, Twin Cities \| St Paul, MN  
+PhD in Ecology, Evolution & Behavior \| Sept 2014 - Aug 2020
+
+## Experience 
+
+Smithsonian Environmental Research Center \| Postdoctoral Fellow \| Sept 2020 - Sept 2022
+
+
