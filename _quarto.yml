@@ -3,19 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "rkingecology"
+  title: "Rachel King"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
       - research.qmd
+      - projects.qmd
 
 format:
   html:
-    theme: spacelab
+    theme: sandstone
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
