@@ -2,8 +2,35 @@
 title: "About"
 ---
 
-About this site
+::: {.hidden}
 
-```{r}
-1 + 1
-```
+Add a current interests section
+add a CV
+
+:::
+
+## Experience
+
+**Data Analyst** | [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) | Oct. 2022 - Present
+
+**Projects:**
+
+- Digital Assets for Nature
+
+- Prey Distribution Mapping for Conservation Planning
+
+<br> 
+
+**Postdoctoral Fellow** | [Smithsonian Environmental Research Center](https://serc.si.edu/) | Sept. 2020 - Sept. 2022
+
+**Projects:**
+
+- Tree diversity impacts on soil carbon storage and stabilization
+
+- [The effects of tree diversity on sapling survival](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.13927)
+
+## Education
+
+**Ph.D.** in Ecology, Evolution, and Behavior | University of Minnesota | 2020
+
+**B.A.** in Biology | Scripps College | 2012
