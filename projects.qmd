@@ -1,0 +1,12 @@
+---
+title: "Projects"
+subtitle: "Workshops and projects highlighting my skills and interests"
+listing:
+  contents: projects
+  type: grid
+  feed: true
+  sort: "date desc"
+page-layout: full
+---
+
+

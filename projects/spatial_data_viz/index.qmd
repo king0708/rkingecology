@@ -1,0 +1,21 @@
+---
+title: "Visualizing Spatial Data"
+description: |
+  Workshop on visualizing spatial data in R
+date: 2024-03-06
+category: "Workshop"
+image: spatial_data_viz_flyer.png
+---
+
+# Workshop Overview
+
+My first workshop for [EcoDataScience](https://ecodatascience.github.io/) on [visualizing spatial data](https://king0708.github.io/spatial-data-viz/). I present an overview of the `sf` package in R, how to add a basemap with different packages, and some other tips and tricks for improving reproducibility and efficiency in map making. 
+
+::: {#fig-map}
+
+![](example_map.png)
+
+One of the maps created during the tutorial.
+
+:::
+
