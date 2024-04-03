@@ -2,3 +2,52 @@
 title: "Research"
 editor: visual
 ---
+
+## Overview
+
+## Google Scholar
+
+```{r}
+#| echo: false
+#| message: false
+
+library(scholar)   # retrieve publications
+library(tidyverse) # data manipulation
+library(flextable) # make tables pretty
+
+scholar_id <- "M7BN2SsAAAAJ"
+
+pub_list <- get_publications(scholar_id)
+
+pub_list <- pub_list %>%
+  select(author, title, year, journal, number, cites) %>%
+  mutate(
+    pub_number = paste0(1:length(pub_list$author), "."),
+    year = format(year, digits = 1))
+
+pub_tbl <- flextable(pub_list, col_keys = c("pub_number", "paper", "cites")) %>%
+  mk_par(j = "paper", 
+         value = as_paragraph(
+           author, 
+           as_chunk(". "), 
+           as_i(title), 
+           as_chunk(". "),
+           year, 
+           as_chunk(". "),
+           journal, 
+           as_chunk(". "),
+           number,
+           as_chunk("."))
+         ) %>%
+  set_table_properties(layout = "autofit") %>%
+  set_header_labels(
+    pub_number = "ID",
+    paper = "Publication",
+    cites = "Citations"
+  )
+  
+
+pub_tbl
+
+```
+
