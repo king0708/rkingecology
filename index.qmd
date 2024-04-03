@@ -1,8 +1,11 @@
 ---
-title: "Rachel King: Ecologist & Data Analyst"
+title: "Rachel King <br> Ecologist & Data Analyst"
+image: images/nceas_profile.jpg
+toc: false
 about: 
-  template: trestles
-  image: profile.jpg
+  template: jolla
+  image-width: 25em
+  image-shape: round
   links: 
     - icon: github
       text: GitHub
@@ -15,15 +18,6 @@ about:
       href: https://scholar.google.com/citations?user=M7BN2SsAAAAJ&hl=en
 ---
 
-I'm a Postdoctoral Fellow at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara. 
+Data Analyst at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara.
 
-## Education
-
-University of Minnesota, Twin Cities \| St Paul, MN  
-PhD in Ecology, Evolution & Behavior \| Sept 2014 - Aug 2020
-
-## Experience 
-
-Smithsonian Environmental Research Center \| Postdoctoral Fellow \| Sept 2020 - Sept 2022
-
-
+## 
