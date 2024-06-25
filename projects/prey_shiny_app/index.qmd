@@ -1,0 +1,27 @@
+---
+title: "Prey Distribution Mapping"
+description: |
+  Shiny application to visualize distribution of prey of endangered species
+date: 2023-09-01
+category: "Workshop"
+image: prey_SSDM.png
+---
+
+# Project Overview 
+
+There are many threatened and endangered species within California drylands, and 
+many active efforts to conserve and restore their populations. One important component
+of conservation for endangered consumers, such as the Blunt-nosed Leopard Lizard, 
+is ensuring that they have adequate prey resources. In this project, we compiled 
+a list of prey of endangered species in California drylands, downloaded occurrence
+ records for the prey from the [Global Biodiversity Information Facility](www.gbif.org), and used these to create species distribution models for finding suitable prey 
+ habitat. These were stacked to identify hot-spots of potential prey species
+richness for different predators. These species distribution models, raw occurrence records, and other summary plots can be viewed interactively in the linked 
+[shiny app](https://kingr.shinyapps.io/Prey_map_shiny/). The data for the app and
+associated paper (King et al., *submitted*) are availble on Zenodo: [https://zenodo.org/records/10215172](https://zenodo.org/records/10215172).
+
+::: {fig-app}
+![](prey_distribution_map.png)
+
+The first page of the Shiny application.
+:::
