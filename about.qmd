@@ -5,9 +5,10 @@ title: "About"
 ::: {.hidden}
 
 Add a current interests section
-add a CV
 
 :::
+
+## Current Interests
 
 ## Experience
 
@@ -34,3 +35,5 @@ add a CV
 **Ph.D.** in Ecology, Evolution, and Behavior | University of Minnesota | 2020
 
 **B.A.** in Biology | Scripps College | 2012
+
+
