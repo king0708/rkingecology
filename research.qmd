@@ -5,6 +5,8 @@ editor: visual
 
 ## Overview
 
+
+
 ## Google Scholar
 
 ```{r}
@@ -26,6 +28,7 @@ pub_list <- pub_list %>%
     year = format(year, digits = 1))
 
 pub_tbl <- flextable(pub_list, col_keys = c("pub_number", "paper", "cites")) %>%
+  font(part = "all", fontname = "Roboto") %>%
   mk_par(j = "paper", 
          value = as_paragraph(
            author, 
@@ -44,7 +47,8 @@ pub_tbl <- flextable(pub_list, col_keys = c("pub_number", "paper", "cites")) %>%
     pub_number = "ID",
     paper = "Publication",
     cites = "Citations"
-  )
+  ) %>% 
+  theme_alafoli()
   
 
 pub_tbl
