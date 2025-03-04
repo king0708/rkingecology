@@ -16,6 +16,7 @@ editor: visual
 library(scholar)   # retrieve publications
 library(tidyverse) # data manipulation
 library(flextable) # make tables pretty
+library(officer) 
 
 scholar_id <- "M7BN2SsAAAAJ"
 
@@ -27,7 +28,7 @@ pub_list <- pub_list %>%
     pub_number = paste0(1:length(pub_list$author), "."),
     year = format(year, digits = 1))
 
-pub_tbl <- flextable(pub_list, col_keys = c("pub_number", "paper", "cites")) %>%
+pub_tbl <- flextable::flextable(pub_list, col_keys = c("pub_number", "paper", "cites")) %>%
   font(part = "all", fontname = "Roboto") %>%
   mk_par(j = "paper", 
          value = as_paragraph(
