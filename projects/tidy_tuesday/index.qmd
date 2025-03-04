@@ -4,7 +4,7 @@ description: |
   Repository showcasing my TidyTuesday Data Visualizations in R
 date: 2024-03-04
 category: "Repository"
-image: spatial_data_viz_flyer.png
+image: 20250304.png
 ---
 
 # Tidy Tuesday
