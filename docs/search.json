@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Visualizing Spatial Data\n\n\nWorkshop on visualizing spatial data in R\n\n\n\n\n\n\nMar 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrey Distribution Mapping\n\n\nShiny application to visualize distribution of prey of endangered species\n\n\n\n\n\n\nSep 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Visualizing Spatial Data\n\n\nWorkshop on visualizing spatial data in R\n\n\n\n\n\n\nMar 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTidy Tuesday\n\n\nRepository showcasing my TidyTuesday Data Visualizations in R\n\n\n\n\n\n\nMar 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrey Distribution Mapping\n\n\nShiny application to visualize distribution of prey of endangered species\n\n\n\n\n\n\nSep 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research.html#google-scholar",
@@ -61,5 +61,12 @@
     "title": "Prey Distribution Mapping",
     "section": "",
     "text": "Project Overview\nThere are many threatened and endangered species within California drylands, and many active efforts to conserve and restore their populations. One important component of conservation for endangered consumers, such as the Blunt-nosed Leopard Lizard, is ensuring that they have adequate prey resources. In this project, we compiled a list of prey of endangered species in California drylands, downloaded occurrence records for the prey from the Global Biodiversity Information Facility, and used these to create species distribution models for finding suitable prey habitat. These were stacked to identify hot-spots of potential prey species richness for different predators. These species distribution models, raw occurrence records, and other summary plots can be viewed interactively in the linked shiny app. The data for the app and associated paper (King et al., submitted) are availble on Zenodo: https://zenodo.org/records/10215172.\n\n\nThe first page of the Shiny application."
+  },
+  {
+    "objectID": "projects/tidy_tuesday/index.html",
+    "href": "projects/tidy_tuesday/index.html",
+    "title": "Tidy Tuesday",
+    "section": "",
+    "text": "Tidy Tuesday\nSee my data viz examples from the Tidy Tuesday project in R.\nWhen I get the chance, I use use the tidytuesdayR package to download the data, explore it, and create a visualization I post to my repository. In creating this repo, I followed this tutorial by Nicola Rennie to make a template for each week to streamline my workflow.\n\n\n\n\n\n\nFigure 1"
   }
 ]
