@@ -11,7 +11,7 @@ image: 20250304.png
 
 See my data viz examples from the [Tidy Tuesday](https://github.com/king0708/tidy-tuesday/tree/main) project in R. 
 
-When I get the chance, I use use the `tidytuesdayR` package to download the data, explore it, and create a visualization I post to my repository. In creating this repo, I followed [this tutorial](https://nrennie.rbind.io/blog/script-templates-r/) by Nicola Rennie to make a template for each week to streamline my workflow. 
+When I get the chance, I use use the `tidytuesdayR` package to download the data, explore it, and create a visualization I post to my repository. In creating this repo, I followed [this tutorial](https://nrennie.rbind.io/blog/script-templates-r/) by [Nicola Rennie](https://nrennie.rbind.io/) to make a template for each week to streamline my workflow. 
 
 
 
