@@ -5,5 +5,68 @@
     "title": "Rachel King  Ecologist & Data Analyst",
     "section": "",
     "text": "Data Analyst at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Add a current interests section"
+  },
+  {
+    "objectID": "about.html#current-interests",
+    "href": "about.html#current-interests",
+    "title": "About",
+    "section": "Current Interests",
+    "text": "Current Interests"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nData Analyst | National Center for Ecological Analysis and Synthesis | Oct. 2022 - Present\nProjects:\n\nDigital Assets for Nature\nPrey Distribution Mapping for Conservation Planning\n\n\nPostdoctoral Fellow | Smithsonian Environmental Research Center | Sept. 2020 - Sept. 2022\nProjects:\n\nTree diversity impacts on soil carbon storage and stabilization\nThe effects of tree diversity on sapling survival"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nPh.D. in Ecology, Evolution, and Behavior | University of Minnesota | 2020\nB.A. in Biology | Scripps College | 2012"
+  },
+  {
+    "objectID": "projects/tidy_tuesday/index.html",
+    "href": "projects/tidy_tuesday/index.html",
+    "title": "Tidy Tuesday",
+    "section": "",
+    "text": "Tidy Tuesday\nSee my data viz examples from the Tidy Tuesday project in R.\nWhen I get the chance, I use use the tidytuesdayR package to download the data, explore it, and create a visualization I post to my repository. In creating this repo, I followed this tutorial by Nicola Rennie to make a template for each week to streamline my workflow.\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "projects/prey_shiny_app/index.html",
+    "href": "projects/prey_shiny_app/index.html",
+    "title": "Prey Distribution Mapping",
+    "section": "",
+    "text": "Project Overview\nThere are many threatened and endangered species within California drylands, and many active efforts to conserve and restore their populations. One important component of conservation for endangered consumers, such as the Blunt-nosed Leopard Lizard, is ensuring that they have adequate prey resources. In this project, we compiled a list of prey of endangered species in California drylands, downloaded occurrence records for the prey from the Global Biodiversity Information Facility, and used these to create species distribution models for finding suitable prey habitat. These were stacked to identify hot-spots of potential prey species richness for different predators. These species distribution models, raw occurrence records, and other summary plots can be viewed interactively in the linked shiny app. The data for the app and associated paper (King et al., submitted) are availble on Zenodo: https://zenodo.org/records/10215172.\n\n\nThe first page of the Shiny application."
+  },
+  {
+    "objectID": "research.html#google-scholar",
+    "href": "research.html#google-scholar",
+    "title": "Research",
+    "section": "Google Scholar",
+    "text": "Google Scholar\n\n\nIDPublicationCitations1.DM Thomson, RA King, EL Schultz. Between invaders and a risky place: Exotic grasses alter demographic tradeoffs of native forb germination timing. 2017. Ecosphere. 8 (10), e01987.212.RA King, ES Menges. Effects of heat and smoke on the germination of six Florida scrub species. 2018. South African Journal of Botany. 115, 223-230.133.RA King, J Pullen, SC Cook‐Patton, JD Parker. Diversity stabilizes but does not increase sapling survival in a tree diversity experiment. 2023. Restoration Ecology. 31 (5), e13927.84.CJ Lortie, A Liczner, A Ruttan, J Braun, DA Sotomayor, M Westphal, .... Patronus charm: a comparison of benefactor plants and climate mediation effects on diversity. 2024. Oikos. 2024 (8), e10292.65.DM Thomson, AD Bonapart, RA King, EL Schultz, CR Startin. Long‐term monitoring of a highly invaded annual grassland community through drought, before and after an unintentional fire. 2020. Journal of Vegetation Science. 31 (2), 307-318.66.SE Hobbie, RA King, T Belo, P Kalinosky, LA Baker, JC Finlay, .... Sources of variation in nutrient loads collected through street sweeping in the Minneapolis-St. Paul Metropolitan Area, Minnesota, USA. 2023. Science of The Total Environment. 905, 166934.27.CJ Lortie, J Braun, R King, M Westphal. The importance of open data describing prey item species lists for endangered species. 2023. Ecological Solutions and Evidence. 4 (2), e12251.28.N Ghazian, R King, M Zuliani, CJ Lortie. The microclimatic effects of the native shrub Ephedra californica (Mormon tea) in California drylands. 2024. Frontiers in Plant Science. 15, 1396004.09.RA King. Evaluating Relationships Between Plant Traits and Nitrogen Use to Help Predict Species' Responses to Climate Change. 2020. University of Minnesota. .010.SE Hobbie, R King, T Belo, LA Baker, JC Finlay. Developing a Street Sweeping Credit for Stormwater Phosphorus Source Reduction. 2020. . .011.RA King, EM Johnson, PB Reich, SE Hobbie. Root morphological traits influence nitrogen uptake by fine roots of common temperate forest trees. 2019. . 2019 ESA Annual Meeting (August 11--16).012.R King, SE Hobbie, PB Reich, J Oleksyn. Evaluating how gymnosperms fit into the mycorrhizal-associated nutrient economy: A comparison of carbon and nitrogen dynamics in a forested common garden experiment. 2018. AGU Fall Meeting Abstracts. 2018, B41K-2864.013.RA King, PB Reich, SE Hobbie. Could changes in N-form availability and plant N-form preferences influence species composition at the temperate-boreal forest ecotone?. 2017. . 2017 ESA Annual Meeting (August 6--11).014.RA King. The Effects of Invasive Grasses on the Survival and Germination of Native Forbs. 2012. . .0"
+  },
+  {
+    "objectID": "projects/spatial_data_viz/index.html",
+    "href": "projects/spatial_data_viz/index.html",
+    "title": "Visualizing Spatial Data",
+    "section": "",
+    "text": "Workshop Overview\nMy first workshop for EcoDataScience on visualizing spatial data. I present an overview of the sf package in R, how to add a basemap with different packages, and some other tips and tricks for improving reproducibility and efficiency in map making.\n\n\n\n\n\n\nFigure 1: One of the maps created during the tutorial."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Tidy Tuesday\n\n\nRepository showcasing my TidyTuesday Data Visualizations in R\n\n\n\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Spatial Data\n\n\nWorkshop on visualizing spatial data in R\n\n\n\n\n\n\nMar 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrey Distribution Mapping\n\n\nShiny application to visualize distribution of prey of endangered species\n\n\n\n\n\n\nSep 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

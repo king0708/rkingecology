@@ -1,11 +1,9 @@
 ---
 title: "Research"
-editor: visual
+editor: source
 ---
 
 ## Overview
-
-
 
 ## Google Scholar
 
@@ -16,7 +14,7 @@ editor: visual
 library(scholar)   # retrieve publications
 library(tidyverse) # data manipulation
 library(flextable) # make tables pretty
-library(officer) 
+library(knitr) 
 
 scholar_id <- "M7BN2SsAAAAJ"
 
@@ -55,4 +53,3 @@ pub_tbl <- flextable::flextable(pub_list, col_keys = c("pub_number", "paper", "c
 pub_tbl
 
 ```
-
