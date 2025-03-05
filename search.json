@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "projects/tidy_tuesday/index.html",
+    "href": "projects/tidy_tuesday/index.html",
+    "title": "Tidy Tuesday",
+    "section": "",
+    "text": "Tidy Tuesday\nSee my data viz examples from the Tidy Tuesday project in R.\nWhen I get the chance, I use use the tidytuesdayR package to download the data, explore it, and create a visualization I post to my repository. In creating this repo, I followed this tutorial by Nicola Rennie to make a template for each week to streamline my workflow.\n\n\n\n\n\n\nFigure 1"
+  },
+  {
+    "objectID": "projects/spatial_data_viz/index.html",
+    "href": "projects/spatial_data_viz/index.html",
+    "title": "Visualizing Spatial Data",
+    "section": "",
+    "text": "Workshop Overview\nMy first workshop for EcoDataScience on visualizing spatial data. I present an overview of the sf package in R, how to add a basemap with different packages, and some other tips and tricks for improving reproducibility and efficiency in map making.\n\n\n\n\n\n\nFigure 1: One of the maps created during the tutorial."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Tidy Tuesday\n\n\nRepository showcasing my TidyTuesday Data Visualizations in R\n\n\n\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Spatial Data\n\n\nWorkshop on visualizing spatial data in R\n\n\n\n\n\n\nMar 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrey Distribution Mapping\n\n\nShiny application to visualize distribution of prey of endangered species\n\n\n\n\n\n\nSep 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rachel King  Ecologist & Data Analyst",
+    "section": "",
+    "text": "Data Analyst at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -28,20 +56,6 @@
     "text": "Education\nPh.D. in Ecology, Evolution, and Behavior | University of Minnesota | 2020\nB.A. in Biology | Scripps College | 2012"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Tidy Tuesday\n\n\nRepository showcasing my TidyTuesday Data Visualizations in R\n\n\n\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Spatial Data\n\n\nWorkshop on visualizing spatial data in R\n\n\n\n\n\n\nMar 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrey Distribution Mapping\n\n\nShiny application to visualize distribution of prey of endangered species\n\n\n\n\n\n\nSep 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/spatial_data_viz/index.html",
-    "href": "projects/spatial_data_viz/index.html",
-    "title": "Visualizing Spatial Data",
-    "section": "",
-    "text": "Workshop Overview\nMy first workshop for EcoDataScience on visualizing spatial data. I present an overview of the sf package in R, how to add a basemap with different packages, and some other tips and tricks for improving reproducibility and efficiency in map making.\n\n\n\n\n\n\nFigure 1: One of the maps created during the tutorial."
-  },
-  {
     "objectID": "research.html#google-scholar",
     "href": "research.html#google-scholar",
     "title": "Research",
@@ -54,19 +68,5 @@
     "title": "Prey Distribution Mapping",
     "section": "",
     "text": "Project Overview\nThere are many threatened and endangered species within California drylands, and many active efforts to conserve and restore their populations. One important component of conservation for endangered consumers, such as the Blunt-nosed Leopard Lizard, is ensuring that they have adequate prey resources. In this project, we compiled a list of prey of endangered species in California drylands, downloaded occurrence records for the prey from the Global Biodiversity Information Facility, and used these to create species distribution models for finding suitable prey habitat. These were stacked to identify hot-spots of potential prey species richness for different predators. These species distribution models, raw occurrence records, and other summary plots can be viewed interactively in the linked shiny app. The data for the app and associated paper (King et al., submitted) are availble on Zenodo: https://zenodo.org/records/10215172.\n\n\nThe first page of the Shiny application."
-  },
-  {
-    "objectID": "projects/tidy_tuesday/index.html",
-    "href": "projects/tidy_tuesday/index.html",
-    "title": "Tidy Tuesday",
-    "section": "",
-    "text": "Tidy Tuesday\nSee my data viz examples from the Tidy Tuesday project in R.\nWhen I get the chance, I use use the tidytuesdayR package to download the data, explore it, and create a visualization I post to my repository. In creating this repo, I followed this tutorial by Nicola Rennie to make a template for each week to streamline my workflow.\n\n\n\n\n\n\nFigure 1"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Rachel King  Ecologist & Data Analyst",
-    "section": "",
-    "text": "Data Analyst at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara."
   }
 ]
