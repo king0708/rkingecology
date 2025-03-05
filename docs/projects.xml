@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Rachel King</title>
+<link>https://king0708.github.io/rkingecology/projects.html</link>
+<atom:link href="https://king0708.github.io/rkingecology/projects.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.549</generator>
+<lastBuildDate>Tue, 04 Mar 2025 08:00:00 GMT</lastBuildDate>
+<item>
+  <title>Tidy Tuesday</title>
+  <link>https://king0708.github.io/rkingecology/projects/tidy_tuesday/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="tidy-tuesday" class="level1">
+<h1>Tidy Tuesday</h1>
+<p>See my data viz examples from the <a href="https://github.com/king0708/tidy-tuesday/tree/main">Tidy Tuesday</a> project in R.</p>
+<p>When I get the chance, I use use the <code>tidytuesdayR</code> package to download the data, explore it, and create a visualization I post to my repository. In creating this repo, I followed <a href="https://nrennie.rbind.io/blog/script-templates-r/">this tutorial</a> by <a href="https://nrennie.rbind.io/">Nicola Rennie</a> to make a template for each week to streamline my workflow.</p>
+<div id="fig-viz" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-viz-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://king0708.github.io/rkingecology/projects/tidy_tuesday/20250304.gif" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-viz-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1
+</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://king0708.github.io/rkingecology/projects/tidy_tuesday/</guid>
+  <pubDate>Tue, 04 Mar 2025 08:00:00 GMT</pubDate>
+  <media:content url="https://king0708.github.io/rkingecology/projects/tidy_tuesday/20250304.png" medium="image" type="image/png" height="103" width="144"/>
+</item>
+<item>
+  <title>Visualizing Spatial Data</title>
+  <link>https://king0708.github.io/rkingecology/projects/spatial_data_viz/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="workshop-overview" class="level1">
+<h1>Workshop Overview</h1>
+<p>My first workshop for <a href="https://ecodatascience.github.io/">EcoDataScience</a> on <a href="https://king0708.github.io/spatial-data-viz/">visualizing spatial data</a>. I present an overview of the <code>sf</code> package in R, how to add a basemap with different packages, and some other tips and tricks for improving reproducibility and efficiency in map making.</p>
+<div id="fig-map" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-map-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://king0708.github.io/rkingecology/projects/spatial_data_viz/example_map.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-map-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: One of the maps created during the tutorial.
+</figcaption>
+</figure>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://king0708.github.io/rkingecology/projects/spatial_data_viz/</guid>
+  <pubDate>Wed, 06 Mar 2024 08:00:00 GMT</pubDate>
+  <media:content url="https://king0708.github.io/rkingecology/projects/spatial_data_viz/spatial_data_viz_flyer.png" medium="image" type="image/png" height="96" width="144"/>
+</item>
+<item>
+  <title>Prey Distribution Mapping</title>
+  <link>https://king0708.github.io/rkingecology/projects/prey_shiny_app/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="project-overview" class="level1">
+<h1>Project Overview</h1>
+<p>There are many threatened and endangered species within California drylands, and many active efforts to conserve and restore their populations. One important component of conservation for endangered consumers, such as the Blunt-nosed Leopard Lizard, is ensuring that they have adequate prey resources. In this project, we compiled a list of prey of endangered species in California drylands, downloaded occurrence records for the prey from the <a href="www.gbif.org">Global Biodiversity Information Facility</a>, and used these to create species distribution models for finding suitable prey habitat. These were stacked to identify hot-spots of potential prey species richness for different predators. These species distribution models, raw occurrence records, and other summary plots can be viewed interactively in the linked <a href="https://kingr.shinyapps.io/Prey_map_shiny/">shiny app</a>. The data for the app and associated paper (King et al., <em>submitted</em>) are availble on Zenodo: <a href="https://zenodo.org/records/10215172">https://zenodo.org/records/10215172</a>.</p>
+<div class="{fig-app}">
+<p><img src="https://king0708.github.io/rkingecology/projects/prey_shiny_app/prey_distribution_map.png" class="img-fluid"></p>
+<p>The first page of the Shiny application.</p>
+</div>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://king0708.github.io/rkingecology/projects/prey_shiny_app/</guid>
+  <pubDate>Fri, 01 Sep 2023 07:00:00 GMT</pubDate>
+  <media:content url="https://king0708.github.io/rkingecology/projects/prey_shiny_app/prey_SSDM.png" medium="image" type="image/png" height="127" width="144"/>
+</item>
+</channel>
+</rss>
