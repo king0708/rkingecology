@@ -1,0 +1,10 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/tidy_tuesday/index.html",
+      "/projects/spatial_data_viz/index.html",
+      "/projects/prey_shiny_app/index.html"
+    ]
+  }
+]
