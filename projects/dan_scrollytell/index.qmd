@@ -1,0 +1,12 @@
+---
+title: "Digital Assets Scrollytelling"
+description: |
+  Visual story highlighting findings from digital assets project
+date: 2025-03-25
+category: "Data Story"
+image: DAN_logo2.png
+---
+
+# Digital Assets Scrollytelling 
+
+See an example of using the `closereads` package to highlight the main findings from one of my recent projects, [**Digital Assets for Nature**](https://king0708.github.io/dan-scrollytell/). 
