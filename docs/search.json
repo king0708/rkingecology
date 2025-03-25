@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Tidy Tuesday\n\n\nRepository showcasing my TidyTuesday Data Visualizations in R\n\n\n\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Spatial Data\n\n\nWorkshop on visualizing spatial data in R\n\n\n\n\n\n\nMar 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrey Distribution Mapping\n\n\nShiny application to visualize distribution of prey of endangered species\n\n\n\n\n\n\nSep 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Digital Assets Scrollytelling\n\n\nVisual story highlighting findings from digital assets project\n\n\n\n\n\n\nMar 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTidy Tuesday\n\n\nRepository showcasing my TidyTuesday Data Visualizations in R\n\n\n\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Spatial Data\n\n\nWorkshop on visualizing spatial data in R\n\n\n\n\n\n\nMar 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrey Distribution Mapping\n\n\nShiny application to visualize distribution of prey of endangered species\n\n\n\n\n\n\nSep 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/spatial_data_viz/index.html",
@@ -68,5 +68,12 @@
     "title": "Rachel King  Ecologist & Data Analyst",
     "section": "",
     "text": "Data Analyst at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara."
+  },
+  {
+    "objectID": "projects/dan_scrollytell/index.html",
+    "href": "projects/dan_scrollytell/index.html",
+    "title": "Digital Assets Scrollytelling",
+    "section": "",
+    "text": "Digital Assets Scrollytelling\nSee an example of using the closereads package to highlight the main findings from one of my recent projects, Digital Assets for Nature."
   }
 ]
