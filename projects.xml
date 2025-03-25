@@ -10,7 +10,27 @@
 <atom:link href="https://king0708.github.io/rkingecology/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.6.42</generator>
-<lastBuildDate>Tue, 04 Mar 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Digital Assets Scrollytelling</title>
+  <link>https://king0708.github.io/rkingecology/projects/dan_scrollytell/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="digital-assets-scrollytelling" class="level1">
+<h1>Digital Assets Scrollytelling</h1>
+<p>See an example of using the <code>closereads</code> package to highlight the main findings from one of my recent projects, <a href="https://king0708.github.io/dan-scrollytell/"><strong>Digital Assets for Nature</strong></a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://king0708.github.io/rkingecology/projects/dan_scrollytell/</guid>
+  <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://king0708.github.io/rkingecology/projects/dan_scrollytell/DAN_logo2.png" medium="image" type="image/png" height="233" width="144"/>
+</item>
 <item>
   <title>Tidy Tuesday</title>
   <link>https://king0708.github.io/rkingecology/projects/tidy_tuesday/</link>

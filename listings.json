@@ -2,6 +2,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/dan_scrollytell/index.html",
       "/projects/tidy_tuesday/index.html",
       "/projects/spatial_data_viz/index.html",
       "/projects/prey_shiny_app/index.html"
