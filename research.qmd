@@ -10,21 +10,34 @@ editor: source
 My research in ecosystem ecology has focused on both carbon and nitrogen cycling,
 primarily in northern temperate forests.  
 
-**Litter Decomposition in a Changing Climate**
+[**Litter Decomposition in a Changing Climate**](https://ecoevorxiv.org/repository/view/9160/)
 
-**Using Plant Traits to Understand Nitrogen Acquisition**
+This study explored multiple impacts of climate change on leaf litter decomposition in a unique global change experiment, *Boreal Forest Warming at an Ecotone in Danger*. We found that both rainfall reduction and warming resulted in slower decomposition but rainfall reduction had a stronger effect. Growing leaf litter under warmed conditions also shifted decomposition rates in unexpected ways.   
+
+[**Using Plant Traits to Understand Nitrogen Acquisition**](https://conservancy.umn.edu/items/4fb023ab-0e33-4330-9370-15ac49464c00)
+
+"In many ecosystems, nitrogen (N) is the predominant nutrient limiting plant growth. Plants have therefore developed diverse strategies to compete for and partition soil N resources to ensure an adequate N supply. Differences in how plants acquire N may be important for predicting plant responses to different global changes. In particular, how species respond to climate change may depend on their N use strategy since climate change will likely alter the forms of N available to plants as well as total N availability. However, there remain key gaps in our understanding of plant N acquisition that impede our ability to project the impacts of climate change on plant communities. My research focuses on one of these gaps, the variation in plant use of different chemical forms of N, and examines how that variation can influence plant responses to climate change. Specifically, my research aims to increase our understanding of N acquisition in trees by examining whether plant traits can improve our ability to identify and explain differences in the use of different N forms."
 
 ### Biodiversity 
 
-**Tree Diversity and Survival**
+[**Tree Diversity and Survival**](https://onlinelibrary.wiley.com/doi/10.1111/rec.13927)
+
+This project examined how tree species richness influenced sapling survival in a reforestation experiment, *BiodiversiTREE*, to offer insight into how to craft more successful tree plantings for future reforestation efforts.
 
 **Tree Diversity Impacts on Soil Carbon Storage**
+
+Reforestation efforts are often touted as having the potential to sequester carbon, but frequently focus solely on aboveground pools of carbon. This project focuses on understanding how different aspects of tree diversity influenced soil carbon storage in the early stages of a reforestation effort. 
 
 ### Conservation
 
 **Using SSDMs to Understand Distributions of Prey Items for Endangered Species**
 
+Species distribution models are a common tool for conservation practioners. Here we explore how stacked-SDMs for prey of threatened and endangered species can be used to help identify priority areas for conservation.
+
 **Improving Biodiversity Monitoring Through Conservation Technology**
+
+Successful conservation relies on assessing and monitoring the outcomes of actions taken to protect species as well as understanding the status of species populations. Conservation technology has the potential to improve our capacity to monitor biodiversity, yet it's [potential far exceeds it's implementation](https://iopscience.iop.org/article/10.1088/1748-9326/add02d). At NCEAS I am working to understand both the current scope of automated biodiversity monitoring and ways to improve our capacity to monitor with these technologies through working groups and collaborative research. 
+
 
 ## Google Scholar
 
