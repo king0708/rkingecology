@@ -9,19 +9,26 @@
 <link>https://king0708.github.io/rkingecology/projects.html</link>
 <atom:link href="https://king0708.github.io/rkingecology/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.6.42</generator>
+<generator>quarto-1.7.31</generator>
 <lastBuildDate>Tue, 25 Mar 2025 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Digital Assets Scrollytelling</title>
+  <title>Digital Assets: Scrollytelling</title>
   <link>https://king0708.github.io/rkingecology/projects/dan_scrollytell/</link>
   <description><![CDATA[ 
 
 
 
 
-<section id="digital-assets-scrollytelling" class="level1">
-<h1>Digital Assets Scrollytelling</h1>
+<section id="scrollytelling-example" class="level1">
+<h1>Scrollytelling example</h1>
+<div class="columns">
+<div class="column">
 <p>See an example of using the <code>closereads</code> package to highlight the main findings from one of my recent projects, <a href="https://king0708.github.io/dan-scrollytell/"><strong>Digital Assets for Nature</strong></a>.</p>
+<p>The dataset compiled for this project can be found at the <a href="https://doi.org/10.5063/F1VQ3157">Knowledge Network for Biocomplexity</a>.</p>
+</div><div class="column">
+<p><img src="https://king0708.github.io/rkingecology/projects/dan_scrollytell/DAN_logo2.png" class="img-fluid"></p>
+</div>
+</div>
 
 
 </section>
