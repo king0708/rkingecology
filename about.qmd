@@ -1,39 +1,63 @@
----
-title: "About"
----
 
-::: {.hidden}
 
+::: hidden
 Add a current interests section
-
 :::
 
 ## Current Interests
 
+::::{.columns}
+
+:::{.column width=45% .text-center}
+
+### Synthesis & Data Science
+<br>
+
+Understanding broad patterns in ecology and environmental science requires synthesizing knowledge from numerous studies that cover different ecosystems, conditions, taxonomic groups and more. I enjoy the challenge and insights that come from thinking about big questions in ecology and leveraging existing data to further our understanding of important topics.
+
+:::
+
+:::{.column width=10%}
+
+:::
+
+:::{.column width=45% .text-center}
+
+### Biodiversity and Ecosystem Functioning 
+
+I am continuously fascinated by the diversity of life on Earth and how different organisms interact to perform key ecosystem functions. My work in this area has recently focused on how tree diversity impacts tree survival and carbon storage in a [tree diversity experiment](https://serc.si.edu/research/projects/biodiversitree), investigating the impacts of climate change on leaf litter decomposition, and identifying gaps and improvement opportunities in automated biodiversity monitoring.
+
+:::
+
+
+
+::::
+
+
 ## Experience
 
-**Data Analyst** | [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) | Oct. 2022 - Present
+**Postdoctoral Scholar** \| [National Center for Ecological Analysis and Synthesis](https://www.nceas.ucsb.edu/) \| Oct. 2022 - Present
 
 **Projects:**
 
-- Digital Assets for Nature
+-   Digital Assets for Nature
 
-- Prey Distribution Mapping for Conservation Planning
+-   Prey Distribution Mapping for Conservation Planning
 
-<br> 
+-   Biodiversity Data Science
 
-**Postdoctoral Fellow** | [Smithsonian Environmental Research Center](https://serc.si.edu/) | Sept. 2020 - Sept. 2022
+<br>
+
+**Postdoctoral Fellow** \| [Smithsonian Environmental Research Center](https://serc.si.edu/) \| Sept. 2020 - Sept. 2022
 
 **Projects:**
 
-- Tree diversity impacts on soil carbon storage and stabilization
+-   Tree diversity impacts on soil carbon storage and stabilization
 
-- [The effects of tree diversity on sapling survival](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.13927)
+-   [The effects of tree diversity on sapling survival](https://onlinelibrary.wiley.com/doi/full/10.1111/rec.13927)
 
 ## Education
 
-**Ph.D.** in Ecology, Evolution, and Behavior | University of Minnesota | 2020
+**Ph.D.** in Ecology, Evolution, and Behavior \| University of Minnesota \| 2020
 
-**B.A.** in Biology | Scripps College | 2012
-
-
+**B.A.** in Biology \| Scripps College \| 2012

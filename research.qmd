@@ -5,6 +5,27 @@ editor: source
 
 ## Overview
 
+### Ecosystem Ecology
+
+My research in ecosystem ecology has focused on both carbon and nitrogen cycling,
+primarily in northern temperate forests.  
+
+**Litter Decomposition in a Changing Climate**
+
+**Using Plant Traits to Understand Nitrogen Acquisition**
+
+### Biodiversity 
+
+**Tree Diversity and Survival**
+
+**Tree Diversity Impacts on Soil Carbon Storage**
+
+### Conservation
+
+**Using SSDMs to Understand Distributions of Prey Items for Endangered Species**
+
+**Improving Biodiversity Monitoring Through Conservation Technology**
+
 ## Google Scholar
 
 ```{r}

@@ -2,28 +2,28 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Rachel King",
     "section": "",
     "text": "Add a current interests section"
   },
   {
     "objectID": "about.html#current-interests",
     "href": "about.html#current-interests",
-    "title": "About",
+    "title": "Rachel King",
     "section": "Current Interests",
-    "text": "Current Interests"
+    "text": "Current Interests\n\n\n\nSynthesis & Data Science\n\nUnderstanding broad patterns in ecology and environmental science requires synthesizing knowledge from numerous studies that cover different ecosystems, conditions, taxonomic groups and more. I enjoy the challenge and insights that come from thinking about big questions in ecology and leveraging existing data to further our understanding of important topics.\n\n\n\n\n\nBiodiversity and Ecosystem Functioning\nI am continuously fascinated by the diversity of life on Earth and how different organisms interact to perform key ecosystem functions. My work in this area has recently focused on how tree diversity impacts tree survival and carbon storage in a tree diversity experiment, investigating the impacts of climate change on leaf litter decomposition, and identifying gaps and improvement opportunities in automated biodiversity monitoring."
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "About",
+    "title": "Rachel King",
     "section": "Experience",
-    "text": "Experience\nData Analyst | National Center for Ecological Analysis and Synthesis | Oct. 2022 - Present\nProjects:\n\nDigital Assets for Nature\nPrey Distribution Mapping for Conservation Planning\n\n\nPostdoctoral Fellow | Smithsonian Environmental Research Center | Sept. 2020 - Sept. 2022\nProjects:\n\nTree diversity impacts on soil carbon storage and stabilization\nThe effects of tree diversity on sapling survival"
+    "text": "Experience\nPostdoctoral Scholar | National Center for Ecological Analysis and Synthesis | Oct. 2022 - Present\nProjects:\n\nDigital Assets for Nature\nPrey Distribution Mapping for Conservation Planning\nBiodiversity Data Science\n\n\nPostdoctoral Fellow | Smithsonian Environmental Research Center | Sept. 2020 - Sept. 2022\nProjects:\n\nTree diversity impacts on soil carbon storage and stabilization\nThe effects of tree diversity on sapling survival"
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "About",
+    "title": "Rachel King",
     "section": "Education",
     "text": "Education\nPh.D. in Ecology, Evolution, and Behavior | University of Minnesota | 2020\nB.A. in Biology | Scripps College | 2012"
   },
@@ -32,7 +32,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Digital Assets Scrollytelling\n\n\nVisual story highlighting findings from digital assets project\n\n\n\n\n\n\nMar 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTidy Tuesday\n\n\nRepository showcasing my TidyTuesday Data Visualizations in R\n\n\n\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Spatial Data\n\n\nWorkshop on visualizing spatial data in R\n\n\n\n\n\n\nMar 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrey Distribution Mapping\n\n\nShiny application to visualize distribution of prey of endangered species\n\n\n\n\n\n\nSep 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Digital Assets: Scrollytelling\n\n\nVisual story highlighting findings from digital assets project\n\n\n\n\n\n\nMar 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTidy Tuesday\n\n\nRepository showcasing my TidyTuesday Data Visualizations in R\n\n\n\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Spatial Data\n\n\nWorkshop on visualizing spatial data in R\n\n\n\n\n\n\nMar 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrey Distribution Mapping\n\n\nShiny application to visualize distribution of prey of endangered species\n\n\n\n\n\n\nSep 1, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/spatial_data_viz/index.html",
@@ -46,7 +46,7 @@
     "href": "research.html#google-scholar",
     "title": "Research",
     "section": "Google Scholar",
-    "text": "Google Scholar\n\n\nIDPublicationCitations1.DM Thomson, RA King, EL Schultz. Between invaders and a risky place: Exotic grasses alter demographic tradeoffs of native forb germination timing. 2017. Ecosphere. 8 (10), e01987.212.RA King, ES Menges. Effects of heat and smoke on the germination of six Florida scrub species. 2018. South African Journal of Botany. 115, 223-230.133.RA King, J Pullen, SC Cook‐Patton, JD Parker. Diversity stabilizes but does not increase sapling survival in a tree diversity experiment. 2023. Restoration Ecology. 31 (5), e13927.84.CJ Lortie, A Liczner, A Ruttan, J Braun, DA Sotomayor, M Westphal, .... Patronus charm: a comparison of benefactor plants and climate mediation effects on diversity. 2024. Oikos. 2024 (8), e10292.65.DM Thomson, AD Bonapart, RA King, EL Schultz, CR Startin. Long‐term monitoring of a highly invaded annual grassland community through drought, before and after an unintentional fire. 2020. Journal of Vegetation Science. 31 (2), 307-318.66.SE Hobbie, RA King, T Belo, P Kalinosky, LA Baker, JC Finlay, .... Sources of variation in nutrient loads collected through street sweeping in the Minneapolis-St. Paul Metropolitan Area, Minnesota, USA. 2023. Science of The Total Environment. 905, 166934.27.CJ Lortie, J Braun, R King, M Westphal. The importance of open data describing prey item species lists for endangered species. 2023. Ecological Solutions and Evidence. 4 (2), e12251.28.N Ghazian, R King, M Zuliani, CJ Lortie. The microclimatic effects of the native shrub Ephedra californica (Mormon tea) in California drylands. 2024. Frontiers in Plant Science. 15, 1396004.09.RA King. Evaluating Relationships Between Plant Traits and Nitrogen Use to Help Predict Species' Responses to Climate Change. 2020. University of Minnesota. .010.SE Hobbie, R King, T Belo, LA Baker, JC Finlay. Developing a Street Sweeping Credit for Stormwater Phosphorus Source Reduction. 2020. . .011.RA King, EM Johnson, PB Reich, SE Hobbie. Root morphological traits influence nitrogen uptake by fine roots of common temperate forest trees. 2019. . 2019 ESA Annual Meeting (August 11--16).012.R King, SE Hobbie, PB Reich, J Oleksyn. Evaluating how gymnosperms fit into the mycorrhizal-associated nutrient economy: A comparison of carbon and nitrogen dynamics in a forested common garden experiment. 2018. AGU Fall Meeting Abstracts. 2018, B41K-2864.013.RA King, PB Reich, SE Hobbie. Could changes in N-form availability and plant N-form preferences influence species composition at the temperate-boreal forest ecotone?. 2017. . 2017 ESA Annual Meeting (August 6--11).014.RA King. The Effects of Invasive Grasses on the Survival and Germination of Native Forbs. 2012. . .0"
+    "text": "Google Scholar\n\n\nIDPublicationCitations1.DM Thomson, RA King, EL Schultz. Between invaders and a risky place: Exotic grasses alter demographic tradeoffs of native forb germination timing. 2017. Ecosphere. 8 (10), e01987.212.RA King, ES Menges. Effects of heat and smoke on the germination of six Florida scrub species. 2018. South African Journal of Botany. 115, 223-230.133.RA King, J Pullen, SC Cook‐Patton, JD Parker. Diversity stabilizes but does not increase sapling survival in a tree diversity experiment. 2023. Restoration Ecology. 31 (5), e13927.84.CJ Lortie, A Liczner, A Ruttan, J Braun, DA Sotomayor, M Westphal, .... Patronus charm: a comparison of benefactor plants and climate mediation effects on diversity. 2024. Oikos. 2024 (8), e10292.65.DM Thomson, AD Bonapart, RA King, EL Schultz, CR Startin. Long‐term monitoring of a highly invaded annual grassland community through drought, before and after an unintentional fire. 2020. Journal of Vegetation Science. 31 (2), 307-318.66.SE Hobbie, RA King, T Belo, P Kalinosky, LA Baker, JC Finlay, .... Sources of variation in nutrient loads collected through street sweeping in the Minneapolis-St. Paul Metropolitan Area, Minnesota, USA. 2023. Science of The Total Environment. 905, 166934.37.CJ Lortie, J Braun, R King, M Westphal. The importance of open data describing prey item species lists for endangered species. 2023. Ecological Solutions and Evidence. 4 (2), e12251.28.N Ghazian, R King, M Zuliani, CJ Lortie. The microclimatic effects of the native shrub Ephedra californica (Mormon tea) in California drylands. 2024. Frontiers in Plant Science. 15, 1396004.09.RA King. Evaluating Relationships Between Plant Traits and Nitrogen Use to Help Predict Species' Responses to Climate Change. 2020. University of Minnesota. .010.SE Hobbie, R King, T Belo, LA Baker, JC Finlay. Developing a Street Sweeping Credit for Stormwater Phosphorus Source Reduction. 2020. . .011.RA King, EM Johnson, PB Reich, SE Hobbie. Root morphological traits influence nitrogen uptake by fine roots of common temperate forest trees. 2019. . 2019 ESA Annual Meeting (August 11--16).012.R King, SE Hobbie, PB Reich, J Oleksyn. Evaluating how gymnosperms fit into the mycorrhizal-associated nutrient economy: A comparison of carbon and nitrogen dynamics in a forested common garden experiment. 2018. AGU Fall Meeting Abstracts. 2018, B41K-2864.013.RA King, PB Reich, SE Hobbie. Could changes in N-form availability and plant N-form preferences influence species composition at the temperate-boreal forest ecotone?. 2017. . 2017 ESA Annual Meeting (August 6--11).014.RA King. The Effects of Invasive Grasses on the Survival and Germination of Native Forbs. 2012. . .0"
   },
   {
     "objectID": "projects/prey_shiny_app/index.html",
@@ -72,8 +72,22 @@
   {
     "objectID": "projects/dan_scrollytell/index.html",
     "href": "projects/dan_scrollytell/index.html",
-    "title": "Digital Assets Scrollytelling",
+    "title": "Digital Assets: Scrollytelling",
     "section": "",
-    "text": "Digital Assets Scrollytelling\nSee an example of using the closereads package to highlight the main findings from one of my recent projects, Digital Assets for Nature."
+    "text": "Scrollytelling example\n\n\nSee an example of using the closereads package to highlight the main findings from one of my recent projects, Digital Assets for Nature.\nThe dataset compiled for this project can be found at the Knowledge Network for Biocomplexity."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research in ecosystem ecology has focused on both carbon and nitrogen cycling, primarily in northern temperate forests.\nLitter Decomposition in a Changing Climate\nUsing Plant Traits to Understand Nitrogen Acquisition\n\n\n\nTree Diversity and Survival\nTree Diversity Impacts on Soil Carbon Storage\n\n\n\nUsing SSDMs to Understand Distributions of Prey Items for Endangered Species\nImproving Biodiversity Monitoring Through Conservation Technology"
+  },
+  {
+    "objectID": "research.html#overview",
+    "href": "research.html#overview",
+    "title": "Research",
+    "section": "",
+    "text": "My research in ecosystem ecology has focused on both carbon and nitrogen cycling, primarily in northern temperate forests.\nLitter Decomposition in a Changing Climate\nUsing Plant Traits to Understand Nitrogen Acquisition\n\n\n\nTree Diversity and Survival\nTree Diversity Impacts on Soil Carbon Storage\n\n\n\nUsing SSDMs to Understand Distributions of Prey Items for Endangered Species\nImproving Biodiversity Monitoring Through Conservation Technology"
   }
 ]
