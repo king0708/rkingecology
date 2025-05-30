@@ -40,7 +40,7 @@ I am continuously fascinated by the diversity of life on Earth and how different
 
 **Projects:**
 
--   Digital Assets for Nature
+-   [Digital Assets for Nature](https://iopscience.iop.org/article/10.1088/1748-9326/add02d)
 
 -   Prey Distribution Mapping for Conservation Planning
 
