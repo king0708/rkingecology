@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Rachel King",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Rachel King  Ecologist & Data Analyst",
     "section": "",
-    "text": "Add a current interests section"
-  },
-  {
-    "objectID": "about.html#current-interests",
-    "href": "about.html#current-interests",
-    "title": "Rachel King",
-    "section": "Current Interests",
-    "text": "Current Interests\n\n\n\nSynthesis & Data Science\n\nUnderstanding broad patterns in ecology and environmental science requires synthesizing knowledge from numerous studies that cover different ecosystems, conditions, taxonomic groups and more. I enjoy the challenge and insights that come from thinking about big questions in ecology and leveraging existing data to further our understanding of important topics.\n\n\n\n\n\nBiodiversity and Ecosystem Functioning\nI am continuously fascinated by the diversity of life on Earth and how different organisms interact to perform key ecosystem functions. My work in this area has recently focused on how tree diversity impacts tree survival and carbon storage in a tree diversity experiment, investigating the impacts of climate change on leaf litter decomposition, and identifying gaps and improvement opportunities in automated biodiversity monitoring."
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Rachel King",
-    "section": "Experience",
-    "text": "Experience\nPostdoctoral Scholar | National Center for Ecological Analysis and Synthesis | Oct. 2022 - Present\nProjects:\n\nDigital Assets for Nature\nPrey Distribution Mapping for Conservation Planning\nBiodiversity Data Science\n\n\nPostdoctoral Fellow | Smithsonian Environmental Research Center | Sept. 2020 - Sept. 2022\nProjects:\n\nTree diversity impacts on soil carbon storage and stabilization\nThe effects of tree diversity on sapling survival"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Rachel King",
-    "section": "Education",
-    "text": "Education\nPh.D. in Ecology, Evolution, and Behavior | University of Minnesota | 2020\nB.A. in Biology | Scripps College | 2012"
+    "text": "Data Analyst at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara."
   },
   {
     "objectID": "projects.html",
@@ -35,25 +14,11 @@
     "text": "Digital Assets: Scrollytelling\n\n\nVisual story highlighting findings from digital assets project\n\n\n\n\n\n\nMar 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nTidy Tuesday\n\n\nRepository showcasing my TidyTuesday Data Visualizations in R\n\n\n\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nVisualizing Spatial Data\n\n\nWorkshop on visualizing spatial data in R\n\n\n\n\n\n\nMar 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrey Distribution Mapping\n\n\nShiny application to visualize distribution of prey of endangered species\n\n\n\n\n\n\nSep 1, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/tidy_tuesday/index.html",
-    "href": "projects/tidy_tuesday/index.html",
-    "title": "Tidy Tuesday",
-    "section": "",
-    "text": "Tidy Tuesday\nSee my data viz examples from the Tidy Tuesday project in R.\nWhen I get the chance, I use use the tidytuesdayR package to download the data, explore it, and create a visualization I post to my repository. In creating this repo, I followed this tutorial by Nicola Rennie to make a template for each week to streamline my workflow.\n\n\n\n\n\n\nFigure 1"
-  },
-  {
     "objectID": "projects/spatial_data_viz/index.html",
     "href": "projects/spatial_data_viz/index.html",
     "title": "Visualizing Spatial Data",
     "section": "",
     "text": "Workshop Overview\nMy first workshop for EcoDataScience on visualizing spatial data. I present an overview of the sf package in R, how to add a basemap with different packages, and some other tips and tricks for improving reproducibility and efficiency in map making.\n\n\n\n\n\n\nFigure 1: One of the maps created during the tutorial."
-  },
-  {
-    "objectID": "projects/dan_scrollytell/index.html",
-    "href": "projects/dan_scrollytell/index.html",
-    "title": "Digital Assets: Scrollytelling",
-    "section": "",
-    "text": "Scrollytelling example\n\n\nSee an example of using the closereads package to highlight the main findings from one of my recent projects, Digital Assets for Nature.\nThe dataset compiled for this project can be found at the Knowledge Network for Biocomplexity."
   },
   {
     "objectID": "projects/prey_shiny_app/index.html",
@@ -63,11 +28,18 @@
     "text": "Project Overview\nThere are many threatened and endangered species within California drylands, and many active efforts to conserve and restore their populations. One important component of conservation for endangered consumers, such as the Blunt-nosed Leopard Lizard, is ensuring that they have adequate prey resources. In this project, we compiled a list of prey of endangered species in California drylands, downloaded occurrence records for the prey from the Global Biodiversity Information Facility, and used these to create species distribution models for finding suitable prey habitat. These were stacked to identify hot-spots of potential prey species richness for different predators. These species distribution models, raw occurrence records, and other summary plots can be viewed interactively in the linked shiny app. The data for the app and associated paper (King et al., submitted) are availble on Zenodo: https://zenodo.org/records/10215172.\n\n\nThe first page of the Shiny application."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Rachel King  Ecologist & Data Analyst",
+    "objectID": "projects/dan_scrollytell/index.html",
+    "href": "projects/dan_scrollytell/index.html",
+    "title": "Digital Assets: Scrollytelling",
     "section": "",
-    "text": "Data Analyst at the National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara."
+    "text": "Scrollytelling example\n\n\nSee an example of using the closereads package to highlight the main findings from one of my recent projects, Digital Assets for Nature.\nThe dataset compiled for this project can be found at the Knowledge Network for Biocomplexity."
+  },
+  {
+    "objectID": "projects/tidy_tuesday/index.html",
+    "href": "projects/tidy_tuesday/index.html",
+    "title": "Tidy Tuesday",
+    "section": "",
+    "text": "Tidy Tuesday\nSee my data viz examples from the Tidy Tuesday project in R.\nWhen I get the chance, I use use the tidytuesdayR package to download the data, explore it, and create a visualization I post to my repository. In creating this repo, I followed this tutorial by Nicola Rennie to make a template for each week to streamline my workflow.\n\n\n\n\n\n\nFigure 1"
   },
   {
     "objectID": "research.html",
@@ -89,5 +61,33 @@
     "title": "Research",
     "section": "Publications",
     "text": "Publications\n\nEcosystem Ecology\nLeaf litter and fine roots have distinct effects on particulate and mineral-associated soil organic matter in a tree common garden Lang A, King RA, Pullen J, Fahey C, Parker JD, Phillips RP. New Phytologist. 2026.\nSources of variation in nutrient loads collected through street sweeping in the Minneapolis-St. Paul Metropolitan Area, Minnesota, USA Hobbie SE, King RA, Belo T, Kalinosky P, Baker LA, Finlay JC, et al. Science of the Total Environment. 2023.\n\n\nBiodiversity\nPatronus charm: a comparison of benefactor plants and climate mediation effects on diversity Lortie CJ, Liczner A, Ruttan A, Braun J, Sotomayor DA, Westphal M, King R, et al. Oikos. 2024.\nThe microclimatic effects of the native shrub Ephedra californica (Mormon tea) in California drylands Ghazian N, King R, Zuliani M, Lortie CJ. Frontiers in Plant Science. 2024.\nDiversity stabilizes but does not increase sapling survival in a tree diversity experiment King RA, Pullen J, Cook-Patton SC, Parker JD. Restoration Ecology. 2023.\nLong-term monitoring of a highly invaded annual grassland community through drought, before and after an unintentional fire Thomson DM, Bonaparte AD, King RA, Schultz EL, Startin CR. Journal of Vegetation Science. 2020.\nBetween invaders and a risky place: Exotic grasses alter demographic tradeoffs of native forb germination timing Thomson DM, King RA, Schultz EL. Ecosphere. 2017.\n\n\nConservation\nImplementation of automated biodiversity monitoring lags behind its potential King RA, Halpern BS. Environmental Research Letters. 2025.\nPrey Distribution Mapping to Support Conservation Planning King RA, Braun J, Westphal M, Lortie CJ. Diversity and Distributions. 2025.\nThe importance of open data describing prey item species lists for endangered species Lortie CJ, Braun J, King R, Westphal M. Ecological Solutions and Evidence. 2023.\n\n\nPlant Ecology\nEffects of heat and smoke on the germination of six Florida scrub species King RA, Menges ES. South African Journal of Botany. 2018."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Rachel King",
+    "section": "",
+    "text": "Understanding broad patterns in ecology and environmental science requires synthesizing knowledge from numerous studies that cover different ecosystems, conditions, taxonomic groups and more. I enjoy the challenge and insights that come from thinking about big questions in ecology and leveraging existing data to further our understanding of important topics.\n\n\n\n\n\n\n\n\nI am continuously fascinated by the diversity of life on Earth and how different organisms interact to perform key ecosystem functions. My work in this area has recently focused on how tree diversity impacts tree survival and carbon storage in a tree diversity experiment, investigating the impacts of climate change on leaf litter decomposition, and identifying gaps and improvement opportunities in automated biodiversity monitoring."
+  },
+  {
+    "objectID": "about.html#current-interests",
+    "href": "about.html#current-interests",
+    "title": "Rachel King",
+    "section": "",
+    "text": "Understanding broad patterns in ecology and environmental science requires synthesizing knowledge from numerous studies that cover different ecosystems, conditions, taxonomic groups and more. I enjoy the challenge and insights that come from thinking about big questions in ecology and leveraging existing data to further our understanding of important topics.\n\n\n\n\n\n\n\n\nI am continuously fascinated by the diversity of life on Earth and how different organisms interact to perform key ecosystem functions. My work in this area has recently focused on how tree diversity impacts tree survival and carbon storage in a tree diversity experiment, investigating the impacts of climate change on leaf litter decomposition, and identifying gaps and improvement opportunities in automated biodiversity monitoring."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Rachel King",
+    "section": "Experience",
+    "text": "Experience\nPostdoctoral Scholar | National Center for Ecological Analysis and Synthesis | Oct. 2022 - Present\nProjects:\n\nDigital Assets for Nature\nPrey Distribution Mapping for Conservation Planning\nBiodiversity Data Science\n\n\nPostdoctoral Fellow | Smithsonian Environmental Research Center | Sept. 2020 - Sept. 2022\nProjects:\n\nTree diversity impacts on soil carbon storage and stabilization\nThe effects of tree diversity on sapling survival"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Rachel King",
+    "section": "Education",
+    "text": "Education\nPh.D. in Ecology, Evolution, and Behavior | University of Minnesota | 2020\nB.A. in Biology | Scripps College | 2012"
   }
 ]
