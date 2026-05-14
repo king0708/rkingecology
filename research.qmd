@@ -39,51 +39,45 @@ Species distribution models are a common tool for conservation practioners. Here
 Successful conservation relies on assessing and monitoring the outcomes of actions taken to protect species as well as understanding the status of species populations. Conservation technology has the potential to improve our capacity to monitor biodiversity, yet it's [potential far exceeds it's implementation](https://iopscience.iop.org/article/10.1088/1748-9326/add02d). At NCEAS I am working to understand both the current scope of automated biodiversity monitoring and ways to improve our capacity to monitor with these technologies through working groups and collaborative research. 
 
 
-## Google Scholar
+## Publications
 
-```{r}
-#| echo: false
-#| message: false
+### Ecosystem Ecology
 
-library(scholar)   # retrieve publications
-library(tidyverse) # data manipulation
-library(flextable) # make tables pretty
-library(knitr) 
+**[Leaf litter and fine roots have distinct effects on particulate and mineral-associated soil organic matter in a tree common garden](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70854)**
+Lang A, King RA, Pullen J, Fahey C, Parker JD, Phillips RP. *New Phytologist*. 2026.
 
-scholar_id <- "M7BN2SsAAAAJ"
+**[Sources of variation in nutrient loads collected through street sweeping in the Minneapolis-St. Paul Metropolitan Area, Minnesota, USA](https://www.sciencedirect.com/science/article/abs/pii/S0048969723055596)**
+Hobbie SE, King RA, Belo T, Kalinosky P, Baker LA, Finlay JC, et al. *Science of the Total Environment*. 2023.
 
-pub_list <- get_publications(scholar_id)
+### Biodiversity
 
-pub_list <- pub_list %>%
-  select(author, title, year, journal, number, cites) %>%
-  mutate(
-    pub_number = paste0(1:length(pub_list$author), "."),
-    year = format(year, digits = 1))
+**[Patronus charm: a comparison of benefactor plants and climate mediation effects on diversity](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.10292)**
+Lortie CJ, Liczner A, Ruttan A, Braun J, Sotomayor DA, Westphal M, King R, et al. *Oikos*. 2024.
 
-pub_tbl <- flextable::flextable(pub_list, col_keys = c("pub_number", "paper", "cites")) %>%
-  font(part = "all", fontname = "Roboto") %>%
-  mk_par(j = "paper", 
-         value = as_paragraph(
-           author, 
-           as_chunk(". "), 
-           as_i(title), 
-           as_chunk(". "),
-           year, 
-           as_chunk(". "),
-           journal, 
-           as_chunk(". "),
-           number,
-           as_chunk("."))
-         ) %>%
-  set_table_properties(layout = "autofit") %>%
-  set_header_labels(
-    pub_number = "ID",
-    paper = "Publication",
-    cites = "Citations"
-  ) %>% 
-  theme_alafoli()
-  
+**[The microclimatic effects of the native shrub *Ephedra californica* (Mormon tea) in California drylands](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1396004/full)**
+Ghazian N, King R, Zuliani M, Lortie CJ. *Frontiers in Plant Science*. 2024.
 
-pub_tbl
+**[Diversity stabilizes but does not increase sapling survival in a tree diversity experiment](https://onlinelibrary.wiley.com/doi/10.1111/rec.13927)**
+King RA, Pullen J, Cook-Patton SC, Parker JD. *Restoration Ecology*. 2023.
 
-```
+**[Long-term monitoring of a highly invaded annual grassland community through drought, before and after an unintentional fire](https://onlinelibrary.wiley.com/doi/10.1111/jvs.12833)**
+Thomson DM, Bonaparte AD, King RA, Schultz EL, Startin CR. *Journal of Vegetation Science*. 2020.
+
+**[Between invaders and a risky place: Exotic grasses alter demographic tradeoffs of native forb germination timing](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.1987)**
+Thomson DM, King RA, Schultz EL. *Ecosphere*. 2017.
+
+### Conservation
+
+**[Implementation of automated biodiversity monitoring lags behind its potential](https://iopscience.iop.org/article/10.1088/1748-9326/add02d)**
+King RA, Halpern BS. *Environmental Research Letters*. 2025.
+
+**[Prey Distribution Mapping to Support Conservation Planning](https://onlinelibrary.wiley.com/doi/10.1111/ddi.70048)**
+King RA, Braun J, Westphal M, Lortie CJ. *Diversity and Distributions*. 2025.
+
+**[The importance of open data describing prey item species lists for endangered species](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/2688-8319.12251)**
+Lortie CJ, Braun J, King R, Westphal M. *Ecological Solutions and Evidence*. 2023.
+
+### Plant Ecology
+
+**[Effects of heat and smoke on the germination of six Florida scrub species](https://www.sciencedirect.com/science/article/pii/S0254629916301764)**
+King RA, Menges ES. *South African Journal of Botany*. 2018.
