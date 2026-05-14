@@ -1,1 +1,21 @@
 /* css styles */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+.interest-card {
+  border: 1px solid #dee2e6;
+  border-radius: 0.5rem;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  height: 100%;
+}
+
+.interest-card i {
+  font-size: 2.5rem;
+  color: #5a8a5a;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.interest-card h3 {
+  margin-bottom: 0.75rem;
+}
